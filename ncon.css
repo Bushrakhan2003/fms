@@ -1,0 +1,14 @@
+.section {
+    overflow: hidden; /* Clear float */
+  }
+  
+  .left-part {
+    float: left;
+    width: 50%;
+  }
+  
+  .right-part {
+    float: right;
+    width: 50%;
+  }
+  
